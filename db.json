@@ -1,0 +1,34 @@
+{
+  "SuperHeros": [
+    {
+      "id": 1,
+      "name": "Mash",
+      "city": "Colombo"
+    },
+    {
+      "id": 2,
+      "name": "Mashi",
+      "city": "Colombo"
+    },
+    {
+      "id": 3,
+      "name": "Toy prtomax ghh",
+      "city": "Malabe"
+    },
+    {
+      "id": 4,
+      "name": "Toy prtomax ghh",
+      "city": "Malabe"
+    },
+    {
+      "id": "a580",
+      "name": "hujj",
+      "city": "ttttty"
+    },
+    {
+      "id": "3bb3",
+      "name": "hujj",
+      "city": "ttttty"
+    }
+  ]
+}
